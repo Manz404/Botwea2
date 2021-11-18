@@ -1,6 +1,6 @@
 {
     "self_mode": true,
-    "anti_delete": false,
+    "anti_delete": true,
     "anti_call": true,
     "autorespon": true,
     "user_register": true,
